@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">proyecto1tlgr</string>
+
+    <!-- CARATULA -->
+    <string name="logo">LOGO</string>
+    <string name="titulo1">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="tutulo2">INGENIERIA EN SISTEMAS COMPUTACIONALES</string>
+    <string name="titulo3">INTRODUCCION DISPOSITIVOS MOVILES</string>
+    <string name="titulo4">VICTOR HUGO DE LA O MARTINEZ</string>
+    <string name="titulo5">PROYECTO</string>
+    <string name="titulo6">GUTIERREZ RANGEL TANIA LUCERO</string>
+    <string name="titulo7">7S11</string>
+
+    <!-- Introducción -->
+    <string name="titulo8">INTRODUCCIÓN</string>
+    <string name="inf">En el presente trabajo se mostraran lo aprendido en la materia de Introduccion a Dispositivos Moviles como es el uso de:</string>
+    <string name="inf1">* TextView</string>
+    <string name="inf2">* Button</string>
+    <string name="inf3">* ImageView</string>
+    <string name="inf4">* ScrollView</string>
+    <string name="sig">MENU</string>
+
+    <!-- MENU PRICIPAL -->
+    <string name="titulo9">MENU</string>
+    <string name="sig1">INTRODUCCIÓN</string>
+    <string name="sig2">HORARIO</string>
+    <string name="sig3">ALICIA</string>
+    <string name="sig4">ESTRELLA</string>
+    <string name="sig5">ELEANOR</string>
+    <string name="sig6">DOS</string>
+    <string name="sig7">CHICOS</string>
+
+    <!-- HORARIO -->
+    <string name="titulo10">HORARIO</string>
+    <string name="dia1">LUNES</string>
+    <string name="dia2">MARTES</string>
+    <string name="dia3">MIERCOLES</string>
+    <string name="dia4">JUEVES</string>
+    <string name="dia5">VIERNES</string>
+    <string name="mat1">NEGOCIO DE APLICACIONES MOVILES</string>
+    <string name="mat2">GESTION DE PROYECTOS DE SOFTWARE</string>
+    <string name="mat3">ENRUTAMIENTO DE REDES</string>
+    <string name="mat4">INTRODUCCION A DISPOSITIVOS MOVILES</string>
+    <string name="mat5">AUTOMATAS II</string>
+    <string name="mat6">SISTEMAS PROGRAMABLES</string>
+    <string name="mat7">PROGRAMACION WEB</string>
+    <string name="hr1">7:00 a 8:00</string>
+    <string name="hr2">8:00 a 9:00</string>
+    <string name="hr3">9:00 a 10:00</string>
+    <string name="hr4">10:00 a 11:00</string>
+    <string name="hr5">11:00 a 12:00</string>
+    <string name="hr6">12:00 a 13:00</string>
+    <string name="hr7">13:00 a 14:00</string>
+    <string name="hr8">14:00 a 15:00</string>
+    <string name="hr9">15:00 a 16:00</string>
+    <string name="hr10">16:00 a 17:00</string>
+
+
+    <!-- ALICIA -->
+    <string name="alicia">ALICIA</string>
+    <string name="al1">ALICIA EN EL PAIS DE LAS MARAVILLAS</string>
+    <string name="al2">AUTOR: LEWIS CARROLL</string>
+    <string name="al3">AÑO DE PUBLICACIÓN: 1865</string>
+    <string name="al4">SINOPSIS: Es una novela de fantasía, cuenta cómo una niña llamada Alicia cae por un agujero, encontrándose en un mundo peculiar, poblado por humanos y criaturas antropomórficas. El libro juega con la lógica, dando a la novela gran popularidad tanto en niños como en adultos.</string>
+
+
+    <!-- ESTRELLA -->
+    <string name="estrella">ESTRELLA</string>
+    <string name="es1">BAJO LA MISMA ESTRELLA</string>
+    <string name="es2">AUTOR: JOHN GREEN</string>
+    <string name="es3">AÑO DE PUBLICACIÓN: 2012</string>
+    <string name="es4">SINOPSIS: La historia es narrada por una adolescente de dieciseis años de edad llamada Hazel Grace Lancaster, que padece cancer de tiroides y a la que sus padres obligan a acudir a un grupo de apoyo para jovenes afectados por la enfermedad situado en el sotano de una iglesia, llamada El corazon literal de Jesus, en la cual conoce y se enamora de un joven de dieciocho años llamado Augustus Waters (Gus), exjugador de baloncesto que tiene amputada una pierna a causa del osteosarcoma.</string>
+
+    <!-- ELEANOR -->
+    <string name="eleanor">ELEANOR</string>
+    <string name="el1">ELEANOR AND PARK</string>
+    <string name="el2">AUTOR: RAINBOW ROWELL</string>
+    <string name="el3">AÑO DE PUBLICACIÓN: 2013</string>
+    <string name="el4">SINOPSIS: Relata la historia de dos personajes adolescentes: Park Sheridan, un introvertido chico americano de piel color miel, debido a su ascendencia coreana e irlandés-americana; y Eleanor Douglas, una chica de cabello rojo, tímida, solitaria y con una forma de vestir extravagante, que llega al colegio en donde Park se encuentra, debido a que se mudó.</string>
+
+    <!-- DOS -->
+    <string name="dos">DOS</string>
+    <string name="d1">A DOS METROS DE TI</string>
+    <string name="d2">AUTOR: RACHEL LIPPINCOTT</string>
+    <string name="d3">AÑO DE PUBLICACIÓN: 2018</string>
+    <string name="d4">SINOPSIS: Necesitamos estar cerca de las personas que queremos casi tanto como el aire que respiramos. A Stella Grant le gusta tener el control, a pesar de no poder dominar sus propios pulmones, que la han tenido en el hospital la mayor parte de su vida. Por encima de todo, Stella necesita controlar su espacio para mantenerse alejada de cualquier persona o cosa que pueda transmitirle una infección y poner en peligro su trasplante de pulmón. </string>
+
+    <!-- CHICOS -->
+    <string name="chicos">CHICOS</string>
+    <string name="c1">A TODOS LOS CHICOS DE LOS QUE ME ENAMORÉ</string>
+    <string name="c2">AUTOR: JENNY HAN</string>
+    <string name="c3">AÑO DE PUBLICACIÓN: 2014</string>
+    <string name="c4">SINOPSIS: Lara Jean guarda sus cartas de amor en una caja. No son cartas que le hayan enviado, las ha escrito ella, una por cada chico de los que se ha enamorado. En ellas se muestra tal cual es, porque sabe que nadie las leera. Hasta que un dia alguien las envia por equivocacion y la vida amorosa de Lara Jean pasa de imaginaria a estar totalmente fuera de control.</string>
+
+
+    <!-- ACERCA DE -->
+    <string name="acerca">ACERCA</string>
+    <string name="a1">AUTOR</string>
+    <string name="a2">GUTIERREZ RANGEL TANIA LUCERO</string>
+    <string name="a3">TESOEM</string>
+    <string name="a4">PARAJE SAN ISIDRO S/N BARRIO DE TECAMACHALCO, LA PAZ C.P.56400</string>
+    <string name="a5">ANDROID STUDIO</string>
+    <string name="a6">3.3.2</string>
+
+</resources>
